@@ -1,0 +1,44 @@
+{
+  "name": "backend304",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.coventry.ac.uk/raevp/304-Project-BackEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^2.2.3",
+    "base-64": "^0.1.0",
+    "base64-img": "^1.0.4",
+    "base64-to-image": "^1.0.2",
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3",
+    "image-data-uri": "^2.0.1",
+    "js-base64": "^2.5.1",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.12.3",
+    "koa-static": "^5.0.0",
+    "node-static": "^0.7.11",
+    "node-storage": "0.0.9",
+    "node-store": "0.0.1",
+    "nodemon": "^1.19.4",
+    "promise-mysql": "^4.1.1",
+    "stack": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  }
+}
